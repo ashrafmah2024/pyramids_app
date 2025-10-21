@@ -1,0 +1,5 @@
+{
+  "@@locale": "en",
+  "internetStatusConnected": "Internet: Connected",
+  "internetStatusDisconnected": "Internet: Disconnected"
+}

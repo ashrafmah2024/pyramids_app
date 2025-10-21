@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32764700037",
+    "project_id": "pyramids-89577",
+    "storage_bucket": "pyramids-89577.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32764700037:android:6584cefe4d2a7156f990ec",
+        "android_client_info": {
+          "package_name": "com.ashraf.abo.hamda.pyramids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwZy-3p6sqv5alRkqLFgYX57tFWDIJALo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

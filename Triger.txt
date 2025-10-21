@@ -1,0 +1,1 @@
+trg_restrict_non_admin_user_update منع تعديل المستخدمين في بيانات غيرهم
